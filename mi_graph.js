@@ -1,1 +1,1 @@
-class mi_graphjs
+var mi_graphjs = {};

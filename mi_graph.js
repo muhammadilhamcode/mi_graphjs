@@ -1,3 +1,5 @@
 var mi_graphjs = {
-   var test;
+
+vertice_source : null;
+
 };

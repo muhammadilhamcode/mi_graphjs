@@ -1,5 +1,1 @@
-var mi_graphjs = {
-
-vertice_test: null;
-
-};
+var mi_graphjs = {};

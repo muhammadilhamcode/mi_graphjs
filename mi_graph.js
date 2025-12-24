@@ -1,6 +1,6 @@
 const messages = {
   msg: "hello",
-  msgbox: function() {
+  mbox: function() {
     alert(this.msg);
   }
 };
